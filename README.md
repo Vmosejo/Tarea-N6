@@ -1,7 +1,10 @@
 # Tarea-N6
 ## 1.OBJETIVOS
-   1.1  General
-   1.2 Especificos
+### 1.1  General
+* Conocer los conceptos generales y básicos sobre los capacitores e inductores mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos".
+### 1.2 Especificos
+* Aplicar los conocimientos adquiridos de capacitores e inductores para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+* Describir la construccion y las caracteristicas básicas de un capacitar y examinar aplicaciones de los mismos.
 ## 2.MARCO TEÓRICO (RESUMEN)
 ### CAPITULO 11. INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS. 
 #### SECCION 11-1. La forma de onda sinusoidal
