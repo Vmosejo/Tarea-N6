@@ -201,8 +201,7 @@ Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro
 ![image](https://user-images.githubusercontent.com/93681159/149874033-8543ddb9-4222-4393-9bf9-1b708f892502.png)
 ## 4.VIDEO
 https://www.youtube.com/watch?v=cOOuS5oywC0&t=2s
-## 5.CONCLUSIONES
-* La onda seno es una forma de onda periódica variable con el tiempo, 
+## 5.CONCLUSIONES 
 * En conclusión la onda seno es una forma de onda periódica variable con el tiempo, además la corriente alterna cambia de dirección en respuesta a cambios de la polaridad del voltaje de fuente.
 * Por otro lado, un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante llamado dieléctrico, este es capaz de guardar energía en el campo eléctrico presente entre las placas.
 * Finalmente la capacitancia total en serie es menor que la del capacitor más pequeño dispuesto en serie.
