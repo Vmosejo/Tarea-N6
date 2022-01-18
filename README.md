@@ -48,10 +48,21 @@
 #### 9. 	Un capacitor de aire tiene un área de placas total de 0.05 m^2. La separación entre las placas es de 4.5×10^(-4)  m. Calcule la capacitancia.
 #### 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr=2.5) de 8×10^(-5) de espesor. ¿Cuál es la capacitancia de su capacitor?
 #### 13. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
-### SECCIÓN 12–2. Tipos de capacitores 
+### SECCIÓN 12–2. Tipos de capacitores
+#### 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+#### 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+#### 19.	Determine el valor de los capacitores de disco de cerámica mostrados en la figura 
 ### SECCIÓN 12–3. Capacitores en serie
+#### 21.	Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+#### 23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 ### SECCIÓN 12–4. Capacitores en paralelo
+#### 25. Determine la CT para cada circuito de la figura 12-71
+#### 27. Determine la CT para cada circuito de la figura 12-72.
+#### 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 ### SECCIÓN 12–5. Capacitores en circuitos de cd
+#### 31. 
+#### 33. 
+#### 35. 
 ### SECCIÓN 12–6. Capacitores en circuitos de ca
 ### SECCIÓN 12–7. Aplicaciones de los capacitores
 ### SECCIÓN 12–8. Circuitos de capacitor conmutado
