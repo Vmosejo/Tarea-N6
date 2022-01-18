@@ -165,6 +165,7 @@ Para un capacitor ideal, la potencia verdadera siempre es de 0 W.
 #### 49.	Determine el valor de C1 en la figura 12-82.
 
 ![image](https://user-images.githubusercontent.com/93681159/149873818-74c21d4e-6d53-4c4d-bd00-ae366a44df6d.png)
+![image](https://user-images.githubusercontent.com/93681159/149875665-2fbfc5d0-caa1-4162-9277-2c8640f0d8b3.png)
 
 ### SECCIÓN 12–7. Aplicaciones de los capacitores
 #### 51.	Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
