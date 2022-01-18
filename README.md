@@ -261,5 +261,6 @@ Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro
 ## 4.VIDEO
 https://www.youtube.com/watch?v=cOOuS5oywC0&t=2s
 ## 5.CONCLUSIONES
+* La onda seno es una forma de onda periódica variable con el tiempo, 
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
