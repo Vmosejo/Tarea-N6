@@ -39,8 +39,7 @@
 
 ![11](https://user-images.githubusercontent.com/93893919/149879584-0ba3ca42-5f8d-48c8-9fbb-98a7aab84e4c.png)
 
-#### 13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre 
-las dos señales. ¿Cuál señal es la que se adelanta? 
+#### 13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta? 
 
 ![13](https://user-images.githubusercontent.com/93893919/149879598-6633f807-2a3c-49e6-a0a9-3144c9ff1b02.png)
 
