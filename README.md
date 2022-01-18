@@ -171,10 +171,10 @@ Para un capacitor ideal, la potencia verdadera siempre es de 0 W.
 
 ![image](https://user-images.githubusercontent.com/93681159/149873967-cdbbb289-6090-4166-8869-7ec987481089.png)
 
-La fluctuación se reduce.
+Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia, la fluctuación se reducirá.
 
 ### SECCIÓN 12–8. Circuitos de capacitor conmutado
-#### 52.	En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+#### 53.	En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
 
 ![image](https://user-images.githubusercontent.com/93681159/149874033-8543ddb9-4222-4393-9bf9-1b708f892502.png)
 
