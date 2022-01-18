@@ -42,30 +42,142 @@
 ## Capítulo 12 - Capacitores
 ### SECCIÓN 12–1. El capacitor básico
 #### 1. Resolver
+
+![image](https://user-images.githubusercontent.com/93681159/149871063-541bdb06-ed0e-4da1-a2cf-43215e9fb4ad.png)
+
 #### 3. Transforme los siguientes valores de picofarads a microfarads:
+
+![image](https://user-images.githubusercontent.com/93681159/149871245-41db7cb0-99cc-4818-ac34-e7b601d31a06.png)
+
 #### 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/93681159/149871327-fc48f1fd-bfc6-4a32-aa3f-8ceb600bf83f.png)
+
 #### 7. . Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.
+
+![image](https://user-images.githubusercontent.com/93681159/149871607-6279028a-0d90-426a-951f-41baada51bf9.png)
+![image](https://user-images.githubusercontent.com/93681159/149871385-73a07908-a2b3-437a-a7ff-bc9499768e58.png)
+
 #### 9. 	Un capacitor de aire tiene un área de placas total de 0.05 m^2. La separación entre las placas es de 4.5×10^(-4)  m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/93681159/149871708-bc90c7f7-f251-4ff7-b81d-bf4323c768ac.png)
+
 #### 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr=2.5) de 8×10^(-5) de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/93681159/149871763-48ac458f-8d82-465b-997f-d6b7bb0e0b67.png)
+
 #### 13. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+![image](https://user-images.githubusercontent.com/93681159/149871826-42bd580b-27b2-4f23-886d-55c0715229e9.png)
+
 ### SECCIÓN 12–2. Tipos de capacitores
 #### 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+Los capacitores de cerámica ya que alcanzan constantes dieléctricas muy altas, típicamente de 1200 mientras que los capacitores de mica presentan una constante dieléctrica típica de 5.
+
 #### 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
-#### 19.	Determine el valor de los capacitores de disco de cerámica mostrados en la figura 
+
+Los capacitores de aluminio y los capacitores de tantalio, la diferencia que posees sobre otros capacitores es que los capacitores electrolíticos están polarizados. 
+
+#### 19.	Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/93681159/149872050-74668894-b849-4d33-9d25-54f39fe18b2e.png)
+
+* a) 0.022 μF
+* b) 0.042 μF
+* c) 0.001 μF
+* d) 220 pF
+
 ### SECCIÓN 12–3. Capacitores en serie
 #### 21.	Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![image](https://user-images.githubusercontent.com/93681159/149872258-92a863a1-4372-4723-ad82-6ee802b4b9af.png)
+![image](https://user-images.githubusercontent.com/93681159/149872383-cac9943d-3559-42b7-8b72-b48e3840b2c1.png)
+
 #### 23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+![image](https://user-images.githubusercontent.com/93681159/149872445-944a3ec4-4221-477e-b26a-4085972fae8f.png)
+
 ### SECCIÓN 12–4. Capacitores en paralelo
-#### 25. Determine la CT para cada circuito de la figura 12-71
+#### 25. Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/93681159/149872487-d73ea3dd-0698-4d1f-ac04-9f154b7ea5f9.png)
+![image](https://user-images.githubusercontent.com/93681159/149872533-aca6041a-21cd-411b-b39a-10ac6fb6aea0.png)
+
 #### 27. Determine la CT para cada circuito de la figura 12-72.
+
+![image](https://user-images.githubusercontent.com/93681159/149872596-2df1bca9-0997-4108-b18e-34eaddf08481.png)
+![image](https://user-images.githubusercontent.com/93681159/149872653-d34bb8d8-083f-48ad-ae06-287e9cc6aa30.png)
+
 #### 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+
+![image](https://user-images.githubusercontent.com/93681159/149872753-20ba2065-95d7-42c5-a5eb-d836fd40593e.png)
+![image](https://user-images.githubusercontent.com/93681159/149872706-b7601800-faa0-4441-81b0-5f615601500a.png)
+
 ### SECCIÓN 12–5. Capacitores en circuitos de cd
-#### 31. 
-#### 33. 
-#### 35. 
+#### 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+![image](https://user-images.githubusercontent.com/93681159/149872855-2d723ccc-84c4-4b6e-a74e-772be4c3d1f9.png)
+
+#### 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
+
+![image](https://user-images.githubusercontent.com/93681159/149873063-cd0ffa0c-2dc0-4fbd-afa7-00648f34ce5a.png)
+
+#### 35. Repita el problema 33 con los siguientes tiempos:
+
+![image](https://user-images.githubusercontent.com/93681159/149873127-aefe6264-7880-45de-b73c-793550480cc2.png)
+
+#### 37.	¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/93681159/149873246-fdf0e64a-13d1-48f6-84de-8c61f75d6468.png)
+![image](https://user-images.githubusercontent.com/93681159/149873212-c6abd3fd-ccf9-4f55-bc76-5ddc6b1320be.png)
+
+#### 39.	Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/93681159/149873280-f35ac168-4371-4e33-954f-843ce67efcc6.png)
+![image](https://user-images.githubusercontent.com/93681159/149873322-d9d1edbb-5c14-42ae-a3af-c6466e40336e.png)
+
+#### 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor. (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+* a)
+
+![image](https://user-images.githubusercontent.com/93681159/149873481-d2f08651-121f-4803-b75d-92011ea6f681.png)
+
+* b)
+
+![image](https://user-images.githubusercontent.com/93681159/149873511-7dea84ee-6f21-4fbb-9d44-5d07542b4f75.png)
+
 ### SECCIÓN 12–6. Capacitores en circuitos de ca
+#### 43.	En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+![image](https://user-images.githubusercontent.com/93681159/149872596-2df1bca9-0997-4108-b18e-34eaddf08481.png)
+![image](https://user-images.githubusercontent.com/93681159/149873620-eb6044c0-16b6-49eb-b2dd-11c483c7210a.png)
+
+#### 45.	Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+![image](https://user-images.githubusercontent.com/93681159/149873660-a0d3641b-185b-4a18-ad29-c2c3d2d334a6.png)
+
+#### 47.	Determine la potencia verdadera y la potencia reactiva en el problema 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+Para un capacitor ideal, la potencia verdadera siempre es de 0 W.
+
+![image](https://user-images.githubusercontent.com/93681159/149873758-61280d4a-1d0f-4801-a03d-311de8061a50.png)
+
+#### 49.	Determine el valor de C1 en la figura 12-82.
+
+![image](https://user-images.githubusercontent.com/93681159/149873818-74c21d4e-6d53-4c4d-bd00-ae366a44df6d.png)
+
 ### SECCIÓN 12–7. Aplicaciones de los capacitores
+#### 51.	Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+![image](https://user-images.githubusercontent.com/93681159/149873967-cdbbb289-6090-4166-8869-7ec987481089.png)
+
+La fluctuación se reduce.
+
 ### SECCIÓN 12–8. Circuitos de capacitor conmutado
+#### 52.	En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+![image](https://user-images.githubusercontent.com/93681159/149874033-8543ddb9-4222-4393-9bf9-1b708f892502.png)
+
 ## 4.VIDEO
 ## 5.CONCLUSIONES
 ## 6.BIBLIOGRAFÍA
