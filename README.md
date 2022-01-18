@@ -6,8 +6,8 @@
 ## 3.EJERCICIOS
 ### CAPITULO 11. INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS. 
 #### SECCION 11-1. La forma de onda sinusoidal
-*	Calcule la frecuencia con cada uno de los siguientes valores de periodo:
-A) 1s B) 0.2 s C) 50 ms D) 1ms E) 500 us F) 10 us
+*	Calcule la frecuencia con cada uno de los siguientes valores de periodo:.
+   A) 1s B) 0.2 s C) 50 ms D) 1ms E) 500 us F) 10 us
 *	Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
 #### SECCION 11-2. Fuentes de voltaje sinusoidal
 *	La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
