@@ -39,7 +39,22 @@
 *	El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
 *	Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89. 
 *	Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
-
+## Capítulo 12 - Capacitores
+### SECCIÓN 12–1. El capacitor básico
+#### 1. Resolver
+#### 3. Transforme los siguientes valores de picofarads a microfarads:
+#### 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+#### 7. . Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.
+#### 9. 	Un capacitor de aire tiene un área de placas total de 0.05 m^2. La separación entre las placas es de 4.5×10^(-4)  m. Calcule la capacitancia.
+#### 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr=2.5) de 8×10^(-5) de espesor. ¿Cuál es la capacitancia de su capacitor?
+#### 13. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+### SECCIÓN 12–2. Tipos de capacitores 
+### SECCIÓN 12–3. Capacitores en serie
+### SECCIÓN 12–4. Capacitores en paralelo
+### SECCIÓN 12–5. Capacitores en circuitos de cd
+### SECCIÓN 12–6. Capacitores en circuitos de ca
+### SECCIÓN 12–7. Aplicaciones de los capacitores
+### SECCIÓN 12–8. Circuitos de capacitor conmutado
 ## 4.VIDEO
 ## 5.CONCLUSIONES
 ## 6.BIBLIOGRAFÍA
