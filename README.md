@@ -24,7 +24,7 @@
 #### SECCION 11-6. Introducción a los fasores
 *	Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico. 
 *	Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
-SECCION 11-7. Análisis de circuitos de ca
+#### SECCION 11-7. Análisis de circuitos de ca
 *	Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.
  
 #### SECCION 11-8. Voltajes superpuestos de cd y de ca
