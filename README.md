@@ -259,6 +259,7 @@ Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro
 ![image](https://user-images.githubusercontent.com/93681159/149874033-8543ddb9-4222-4393-9bf9-1b708f892502.png)
 
 ## 4.VIDEO
+https://www.youtube.com/watch?v=cOOuS5oywC0&t=2s
 ## 5.CONCLUSIONES
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
