@@ -121,6 +121,8 @@ frecuencia de 5 kHz.
 ![43](https://user-images.githubusercontent.com/93893919/149879792-f163ed8d-90d6-49fe-87dd-4629817d1307.png)
 #### 45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
 ![45](https://user-images.githubusercontent.com/93893919/149879801-fe4e5d55-4460-4ea0-9847-8df52533a9af.png)
+
+
 ## Capítulo 12 - Capacitores
 ### SECCIÓN 12–1. El capacitor básico
 #### 1. Resolver
